@@ -1,5 +1,5 @@
 # Intro to APIs
-Learning to us js to get data and display it!
+Learning to use js to get data and display it!
 
 
 ### TODO:
